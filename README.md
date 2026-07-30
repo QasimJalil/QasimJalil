@@ -2,13 +2,13 @@
 
 **Business Computing graduate (First Class Honours, Brunel University London)** working at the intersection of business analysis, data, and software.
 
-I like problems where the answer isn't just "write more code" — where you have to understand how a process actually works before you can improve it.
+I like problems where the answer isn't "write more code" — where you have to understand how a process actually works before you can improve it.
 
 ---
 
 ## What I do
 
-**Process & systems analysis** — mapping how things currently work (AS-IS), finding where they break, and modelling what better looks like (TO-BE). BPMN, Simul8, Visual Paradigm.
+**Process & systems analysis** — mapping how things currently work (AS-IS), finding where they break, and modelling what better looks like (TO-BE). BPMN 2.0, Simul8, Visual Paradigm.
 
 **Data & reporting** — turning messy operational data into something a decision-maker can act on. Power BI, SQL, Excel.
 
@@ -16,39 +16,54 @@ I like problems where the answer isn't just "write more code" — where you have
 
 ---
 
-## Selected work
+## Projects
 
-### 🌿 [Finding Solace](https://github.com/QasimJalil/finding-solace) · [Live site →](https://findingsolaceofficial.com)
+### ✈️ [Islamabad International Airport — Process Re-engineering](https://github.com/QasimJalil/islamabad-airport-simulation)
 
-Production website for an online psychotherapy practice. Eight pages, integrated booking, custom domain, SEO and security headers configured, plus a written handover guide so the client runs it independently.
+Final year project. Interviewed an airport stakeholder under university ethics approval, mapped terminal passenger flow in BPMN, and built a calibrated Simul8 discrete-event model to test a re-engineered design.
 
-`HTML` `CSS` `JavaScript` `Netlify` `Calendly`
+**End-to-end journey time 152 → 79 min (−48%). Throughput 5,364 → 6,129 passengers (+14%).** The dominant win was security screening, down 89% — throughput rose while time fell, meaning the gain came from removing queueing waste rather than adding staff.
 
-### ✈️ Islamabad International Airport — Operational Simulation
+Dissertation graded A+. [Video demonstration →](https://youtu.be/zFs3OnL9DQU)
 
-Final year project. Interviewed stakeholders, mapped current airport passenger flow, identified bottlenecks, and built a TO-BE simulation model achieving a **59.9% efficiency improvement**. Dissertation graded A+.
+`Simul8` `BPMN 2.0` `Visual Paradigm` `Excel` `BPR`
 
-`Simul8` `BPMN` `Visual Paradigm` `Excel`
+### 📊 [Business Analysis Portfolio](https://github.com/QasimJalil/business-analysis-portfolio)
 
-### 🛒 Artisan E-Commerce Platform
+Two halves. **Process modelling:** a four-actor corporate IT service request process in BPMN, six named inefficiencies with proposed fixes, and a TO-BE redesign removing a false sequential dependency. **Agile delivery:** Product Owner for a five-person team building a subscription streaming platform — backlog ownership, user stories, planning poker, burndown tracking.
 
-Full-stack marketplace built by a cross-functional team. I built the Customer Support and Feedback modules and led sprint planning in Trello. Showcased at Made in Brunel.
+`BPMN 2.0` `Scrum` `Product Ownership` `Requirements`
 
-`React` `Spring Boot` `MySQL` `REST` `Agile`
+### 🌿 [Finding Solace](https://github.com/QasimJalil/finding-solace) · [Live →](https://findingsolaceofficial.com)
 
-### 🛫 Flight Management System
+Production website for an online psychotherapy practice. Eight pages, Calendly booking, custom domain with HTTPS and security headers, SEO configured, plus a written handover guide so the non-technical client runs it independently. Delivered pro bono.
 
-Java system handling passenger records — input, validation, error handling, persistence and retrieval for ~300 passengers.
+`HTML` `CSS` `JavaScript` `Netlify`
 
-`Java` `MySQL`
+### 🛒 [FairCraft](https://github.com/QasimJalil/faircraft)
+
+Full-stack artisan marketplace, team of five. I built the product and catalogue layer end to end — JPA entity, repository, service and REST controller — plus the shop, filtering and product detail front end. Includes the full UML design set, so the repo shows requirements → design → code in one place.
+
+`React` `Spring Boot` `MySQL` `REST` `UML`
+
+### 📈 [AdventureWorks Sales Report](https://github.com/QasimJalil/powerbi-adventureworks)
+
+Power BI report over the AdventureWorks dataset — star schema modelling, Power Query transformation, DAX time-intelligence measures, and a multi-page drill-through report. A training project, published as evidence behind a claimed skill.
+
+`Power BI` `DAX` `Power Query` `Data Modelling`
+
+### 🛫 [Flight Management System](https://github.com/QasimJalil/flight-management-system)
+
+Java Swing passenger check-in system. I built the Passenger component — input, validation, error handling, persistence and retrieval for ~300 records.
+
+`Java` `Swing` `MySQL` `JUnit`
 
 ---
 
 ## Currently
 
-- Migrating my university and freelance projects onto this profile
-- Working towards my **Commercial Pilot Licence** — 200 flight hours flown, ground school across 13 subjects complete
-- Open to graduate roles in **business analysis, systems analysis, and data analysis**
+- Working towards my **Commercial Pilot Licence** — 200 flight hours, ground school across 13 subjects complete
+- Open to graduate roles in **business analysis, systems analysis and data analysis**
 
 ---
 

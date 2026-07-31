@@ -63,7 +63,7 @@ Java Swing passenger check-in system. I built the Passenger component — input,
 ## Currently
 
 - Open to graduate roles in **business analysis, systems analysis and data analysis**
-- - Working towards my **Commercial Pilot Licence** — 200 flight hours, ground school across 13 subjects complete
+- Working towards my **Commercial Pilot Licence** — 200 flight hours, ground school across 13 subjects complete
 
 ---
 
